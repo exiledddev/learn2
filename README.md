@@ -1,0 +1,1 @@
+Quick note: So far, java logic and some syntax is very similar to C++, and as I already learn C++ in my high school, it's quite easy to understand Java. Love the language so far, can't wait to get hit with 10 thousand NullPointerExceptions in the future.
